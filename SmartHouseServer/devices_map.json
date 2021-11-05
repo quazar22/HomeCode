@@ -1,0 +1,613 @@
+{
+    "result": [
+        {
+            "active_time": 1632262145,
+            "biz_type": 18,
+            "category": "dj",
+            "create_time": 1632262146,
+            "icon": "smart/program_category_icon/dj.png",
+            "id": "64800348483fda8d07a6",
+            "ip": "92.5.106.210",
+            "lat": "55.8955",
+            "local_key": "4aadaf61e3535f3a",
+            "lon": "-4.3302",
+            "model": "DY.0410",
+            "name": "Living Room",
+            "online": false,
+            "owner_id": "33974394",
+            "product_id": "bqkefojbmb8ovvws",
+            "product_name": "A60-WIFI",
+            "status": [
+                {
+                    "code": "switch_led",
+                    "value": true
+                },
+                {
+                    "code": "work_mode",
+                    "value": "white"
+                },
+                {
+                    "code": "bright_value",
+                    "value": 255
+                },
+                {
+                    "code": "temp_value",
+                    "value": 255
+                },
+                {
+                    "code": "colour_data",
+                    "value": "{\"h\":0.0,\"s\":255.0,\"v\":255.0}"
+                },
+                {
+                    "code": "scene_data",
+                    "value": "{\"h\":37.5,\"s\":255.0,\"v\":189.0}"
+                },
+                {
+                    "code": "flash_scene_1",
+                    "value": "{\"bright\":255,\"frequency\":80,\"hsv\":[{\"h\":120.0,\"s\":255.0,\"v\":255.0}],\"temperature\":255}"
+                },
+                {
+                    "code": "flash_scene_2",
+                    "value": "{\"bright\":255,\"frequency\":128,\"hsv\":[{\"h\":0.0,\"s\":255.0,\"v\":255.0},{\"h\":120.0,\"s\":255.0,\"v\":255.0},{\"h\":240.0,\"s\":255.0,\"v\":255.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0}],\"temperature\":255}"
+                },
+                {
+                    "code": "flash_scene_3",
+                    "value": "{\"bright\":255,\"frequency\":80,\"hsv\":[{\"h\":0.0,\"s\":255.0,\"v\":255.0}],\"temperature\":255}"
+                },
+                {
+                    "code": "flash_scene_4",
+                    "value": "{\"bright\":255,\"frequency\":5,\"hsv\":[{\"h\":0.0,\"s\":255.0,\"v\":255.0},{\"h\":120.0,\"s\":255.0,\"v\":255.0},{\"h\":60.0,\"s\":255.0,\"v\":255.0},{\"h\":300.0,\"s\":255.0,\"v\":255.0},{\"h\":240.0,\"s\":255.0,\"v\":255.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0}],\"temperature\":255}"
+                }
+            ],
+            "sub": false,
+            "time_zone": "+00:00",
+            "uid": "eu16260908376886rDRp",
+            "update_time": 1635703686,
+            "uuid": "64800348483fda8d07a6"
+        },
+        {
+            "active_time": 1632173123,
+            "biz_type": 18,
+            "category": "dj",
+            "create_time": 1626091278,
+            "icon": "smart/program_category_icon/dj.png",
+            "id": "138005128caab520524d",
+            "ip": "92.5.106.210",
+            "lat": "55.8955",
+            "local_key": "901f8c451e759be7",
+            "lon": "-4.3302",
+            "name": "kitchen light",
+            "online": true,
+            "owner_id": "33974394",
+            "product_id": "bqkefojbmb8ovvws",
+            "product_name": "A60-WIFI",
+            "status": [
+                {
+                    "code": "switch_led",
+                    "value": true
+                },
+                {
+                    "code": "work_mode",
+                    "value": "white"
+                },
+                {
+                    "code": "bright_value",
+                    "value": 255
+                },
+                {
+                    "code": "temp_value",
+                    "value": 126
+                },
+                {
+                    "code": "colour_data",
+                    "value": "{\"h\":0.0,\"s\":255.0,\"v\":255.0}"
+                },
+                {
+                    "code": "scene_data",
+                    "value": "{\"h\":37.5,\"s\":255.0,\"v\":189.0}"
+                },
+                {
+                    "code": "flash_scene_1",
+                    "value": "{\"bright\":255,\"frequency\":80,\"hsv\":[{\"h\":120.0,\"s\":255.0,\"v\":255.0}],\"temperature\":255}"
+                },
+                {
+                    "code": "flash_scene_2",
+                    "value": "{\"bright\":255,\"frequency\":128,\"hsv\":[{\"h\":0.0,\"s\":255.0,\"v\":255.0},{\"h\":120.0,\"s\":255.0,\"v\":255.0},{\"h\":240.0,\"s\":255.0,\"v\":255.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0}],\"temperature\":255}"
+                },
+                {
+                    "code": "flash_scene_3",
+                    "value": "{\"bright\":255,\"frequency\":80,\"hsv\":[{\"h\":0.0,\"s\":255.0,\"v\":255.0}],\"temperature\":255}"
+                },
+                {
+                    "code": "flash_scene_4",
+                    "value": "{\"bright\":255,\"frequency\":5,\"hsv\":[{\"h\":0.0,\"s\":255.0,\"v\":255.0},{\"h\":120.0,\"s\":255.0,\"v\":255.0},{\"h\":60.0,\"s\":255.0,\"v\":255.0},{\"h\":300.0,\"s\":255.0,\"v\":255.0},{\"h\":240.0,\"s\":255.0,\"v\":255.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0}],\"temperature\":255}"
+                }
+            ],
+            "sub": false,
+            "time_zone": "+00:00",
+            "uid": "eu16260908376886rDRp",
+            "update_time": 1635700910,
+            "uuid": "138005128caab520524d"
+        },
+        {
+            "active_time": 1632260740,
+            "biz_type": 18,
+            "category": "dj",
+            "create_time": 1632260740,
+            "icon": "smart/program_category_icon/dj.png",
+            "id": "46558810483fda8c7f78",
+            "ip": "92.5.106.210",
+            "lat": "55.8955",
+            "local_key": "4dde6a2349d8f574",
+            "lon": "-4.3302",
+            "model": "DY.0410",
+            "name": "Hallway Light LR",
+            "online": true,
+            "owner_id": "33974394",
+            "product_id": "bqkefojbmb8ovvws",
+            "product_name": "A60-WIFI",
+            "status": [
+                {
+                    "code": "switch_led",
+                    "value": true
+                },
+                {
+                    "code": "work_mode",
+                    "value": "white"
+                },
+                {
+                    "code": "bright_value",
+                    "value": 255
+                },
+                {
+                    "code": "temp_value",
+                    "value": 255
+                },
+                {
+                    "code": "colour_data",
+                    "value": "{\"h\":0.0,\"s\":255.0,\"v\":255.0}"
+                },
+                {
+                    "code": "scene_data",
+                    "value": "{\"h\":37.5,\"s\":255.0,\"v\":189.0}"
+                },
+                {
+                    "code": "flash_scene_1",
+                    "value": "{\"bright\":255,\"frequency\":80,\"hsv\":[{\"h\":120.0,\"s\":255.0,\"v\":255.0}],\"temperature\":255}"
+                },
+                {
+                    "code": "flash_scene_2",
+                    "value": "{\"bright\":255,\"frequency\":128,\"hsv\":[{\"h\":0.0,\"s\":255.0,\"v\":255.0},{\"h\":120.0,\"s\":255.0,\"v\":255.0},{\"h\":240.0,\"s\":255.0,\"v\":255.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0}],\"temperature\":255}"
+                },
+                {
+                    "code": "flash_scene_3",
+                    "value": "{\"bright\":255,\"frequency\":80,\"hsv\":[{\"h\":0.0,\"s\":255.0,\"v\":255.0}],\"temperature\":255}"
+                },
+                {
+                    "code": "flash_scene_4",
+                    "value": "{\"bright\":255,\"frequency\":5,\"hsv\":[{\"h\":0.0,\"s\":255.0,\"v\":255.0},{\"h\":120.0,\"s\":255.0,\"v\":255.0},{\"h\":60.0,\"s\":255.0,\"v\":255.0},{\"h\":300.0,\"s\":255.0,\"v\":255.0},{\"h\":240.0,\"s\":255.0,\"v\":255.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0}],\"temperature\":255}"
+                }
+            ],
+            "sub": false,
+            "time_zone": "+00:00",
+            "uid": "eu16260908376886rDRp",
+            "update_time": 1635700733,
+            "uuid": "46558810483fda8c7f78"
+        },
+        {
+            "active_time": 1632260740,
+            "biz_type": 18,
+            "category": "dj",
+            "create_time": 1632260740,
+            "icon": "smart/program_category_icon/dj.png",
+            "id": "64800348483fda8c936d",
+            "ip": "92.5.106.210",
+            "lat": "55.8955",
+            "local_key": "7f81510285f27237",
+            "lon": "-4.3302",
+            "model": "DY.0410",
+            "name": "Hallway Light FD",
+            "online": true,
+            "owner_id": "33974394",
+            "product_id": "bqkefojbmb8ovvws",
+            "product_name": "A60-WIFI",
+            "status": [
+                {
+                    "code": "switch_led",
+                    "value": true
+                },
+                {
+                    "code": "work_mode",
+                    "value": "white"
+                },
+                {
+                    "code": "bright_value",
+                    "value": 255
+                },
+                {
+                    "code": "temp_value",
+                    "value": 255
+                },
+                {
+                    "code": "colour_data",
+                    "value": "{\"h\":0.0,\"s\":255.0,\"v\":255.0}"
+                },
+                {
+                    "code": "scene_data",
+                    "value": "{\"h\":37.5,\"s\":255.0,\"v\":189.0}"
+                },
+                {
+                    "code": "flash_scene_1",
+                    "value": "{\"bright\":255,\"frequency\":80,\"hsv\":[{\"h\":120.0,\"s\":255.0,\"v\":255.0}],\"temperature\":255}"
+                },
+                {
+                    "code": "flash_scene_2",
+                    "value": "{\"bright\":255,\"frequency\":128,\"hsv\":[{\"h\":0.0,\"s\":255.0,\"v\":255.0},{\"h\":120.0,\"s\":255.0,\"v\":255.0},{\"h\":240.0,\"s\":255.0,\"v\":255.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0}],\"temperature\":255}"
+                },
+                {
+                    "code": "flash_scene_3",
+                    "value": "{\"bright\":255,\"frequency\":80,\"hsv\":[{\"h\":0.0,\"s\":255.0,\"v\":255.0}],\"temperature\":255}"
+                },
+                {
+                    "code": "flash_scene_4",
+                    "value": "{\"bright\":255,\"frequency\":5,\"hsv\":[{\"h\":0.0,\"s\":255.0,\"v\":255.0},{\"h\":120.0,\"s\":255.0,\"v\":255.0},{\"h\":60.0,\"s\":255.0,\"v\":255.0},{\"h\":300.0,\"s\":255.0,\"v\":255.0},{\"h\":240.0,\"s\":255.0,\"v\":255.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0}],\"temperature\":255}"
+                }
+            ],
+            "sub": false,
+            "time_zone": "+00:00",
+            "uid": "eu16260908376886rDRp",
+            "update_time": 1635700733,
+            "uuid": "64800348483fda8c936d"
+        },
+        {
+            "active_time": 1632172767,
+            "biz_type": 18,
+            "category": "dj",
+            "create_time": 1626102416,
+            "icon": "smart/program_category_icon/dj.png",
+            "id": "138005128caab51fcf11",
+            "ip": "2.99.81.9",
+            "lat": "55.8955",
+            "local_key": "80c2c2e1d2990d0c",
+            "lon": "-4.3302",
+            "name": "office",
+            "online": true,
+            "owner_id": "33974394",
+            "product_id": "bqkefojbmb8ovvws",
+            "product_name": "A60-WIFI",
+            "status": [
+                {
+                    "code": "switch_led",
+                    "value": true
+                },
+                {
+                    "code": "work_mode",
+                    "value": "white"
+                },
+                {
+                    "code": "bright_value",
+                    "value": 80
+                },
+                {
+                    "code": "temp_value",
+                    "value": 0
+                },
+                {
+                    "code": "colour_data",
+                    "value": "{\"h\":0.0,\"s\":255.0,\"v\":255.0}"
+                },
+                {
+                    "code": "scene_data",
+                    "value": "{\"h\":37.5,\"s\":255.0,\"v\":189.0}"
+                },
+                {
+                    "code": "flash_scene_1",
+                    "value": "{\"bright\":255,\"frequency\":80,\"hsv\":[{\"h\":120.0,\"s\":255.0,\"v\":255.0}],\"temperature\":255}"
+                },
+                {
+                    "code": "flash_scene_2",
+                    "value": "{\"bright\":255,\"frequency\":128,\"hsv\":[{\"h\":0.0,\"s\":255.0,\"v\":255.0},{\"h\":120.0,\"s\":255.0,\"v\":255.0},{\"h\":240.0,\"s\":255.0,\"v\":255.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0}],\"temperature\":255}"
+                },
+                {
+                    "code": "flash_scene_3",
+                    "value": "{\"bright\":255,\"frequency\":80,\"hsv\":[{\"h\":0.0,\"s\":255.0,\"v\":255.0}],\"temperature\":255}"
+                },
+                {
+                    "code": "flash_scene_4",
+                    "value": "{\"bright\":255,\"frequency\":5,\"hsv\":[{\"h\":0.0,\"s\":255.0,\"v\":255.0},{\"h\":120.0,\"s\":255.0,\"v\":255.0},{\"h\":60.0,\"s\":255.0,\"v\":255.0},{\"h\":300.0,\"s\":255.0,\"v\":255.0},{\"h\":240.0,\"s\":255.0,\"v\":255.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0}],\"temperature\":255}"
+                }
+            ],
+            "sub": false,
+            "time_zone": "+00:00",
+            "uid": "eu16260908376886rDRp",
+            "update_time": 1635700394,
+            "uuid": "138005128caab51fcf11"
+        },
+        {
+            "active_time": 1632261827,
+            "biz_type": 18,
+            "category": "dj",
+            "create_time": 1632261827,
+            "icon": "smart/program_category_icon/dj.png",
+            "id": "46558810483fda8c75f6",
+            "ip": "92.5.106.210",
+            "lat": "55.8955",
+            "local_key": "27ba4c457631058f",
+            "lon": "-4.3302",
+            "model": "DY.0410",
+            "name": "Bathroom Light",
+            "online": false,
+            "owner_id": "33974394",
+            "product_id": "bqkefojbmb8ovvws",
+            "product_name": "A60-WIFI",
+            "status": [
+                {
+                    "code": "switch_led",
+                    "value": true
+                },
+                {
+                    "code": "work_mode",
+                    "value": "white"
+                },
+                {
+                    "code": "bright_value",
+                    "value": 255
+                },
+                {
+                    "code": "temp_value",
+                    "value": 255
+                },
+                {
+                    "code": "colour_data",
+                    "value": "{\"h\":0.0,\"s\":255.0,\"v\":255.0}"
+                },
+                {
+                    "code": "scene_data",
+                    "value": "{\"h\":37.5,\"s\":255.0,\"v\":189.0}"
+                },
+                {
+                    "code": "flash_scene_1",
+                    "value": "{\"bright\":255,\"frequency\":80,\"hsv\":[{\"h\":120.0,\"s\":255.0,\"v\":255.0}],\"temperature\":255}"
+                },
+                {
+                    "code": "flash_scene_2",
+                    "value": "{\"bright\":255,\"frequency\":128,\"hsv\":[{\"h\":0.0,\"s\":255.0,\"v\":255.0},{\"h\":120.0,\"s\":255.0,\"v\":255.0},{\"h\":240.0,\"s\":255.0,\"v\":255.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0}],\"temperature\":255}"
+                },
+                {
+                    "code": "flash_scene_3",
+                    "value": "{\"bright\":255,\"frequency\":80,\"hsv\":[{\"h\":0.0,\"s\":255.0,\"v\":255.0}],\"temperature\":255}"
+                },
+                {
+                    "code": "flash_scene_4",
+                    "value": "{\"bright\":255,\"frequency\":5,\"hsv\":[{\"h\":0.0,\"s\":255.0,\"v\":255.0},{\"h\":120.0,\"s\":255.0,\"v\":255.0},{\"h\":60.0,\"s\":255.0,\"v\":255.0},{\"h\":300.0,\"s\":255.0,\"v\":255.0},{\"h\":240.0,\"s\":255.0,\"v\":255.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0}],\"temperature\":255}"
+                }
+            ],
+            "sub": false,
+            "time_zone": "+00:00",
+            "uid": "eu16260908376886rDRp",
+            "update_time": 1635698980,
+            "uuid": "46558810483fda8c75f6"
+        },
+        {
+            "active_time": 1632244996,
+            "biz_type": 18,
+            "category": "dj",
+            "create_time": 1632244996,
+            "icon": "smart/icon/ay1531274314270b4rAP/6b7f8edf3d4d29deb02c17df60f1d6ca.png",
+            "id": "bf5f4e973154d7c5dalump",
+            "ip": "2.99.81.9",
+            "lat": "55.8956",
+            "local_key": "c08e70167fea5b30",
+            "lon": "-4.3302",
+            "model": "",
+            "name": "YX-ZNLD9-15mA 2",
+            "online": true,
+            "owner_id": "33974394",
+            "product_id": "zegnjggpukb4ktuf",
+            "product_name": "",
+            "status": [
+                {
+                    "code": "switch_led",
+                    "value": true
+                },
+                {
+                    "code": "work_mode",
+                    "value": "white"
+                },
+                {
+                    "code": "bright_value_v2",
+                    "value": 197
+                },
+                {
+                    "code": "temp_value_v2",
+                    "value": 298
+                },
+                {
+                    "code": "colour_data_v2",
+                    "value": "{\"h\":0,\"s\":1000,\"v\":1000}"
+                },
+                {
+                    "code": "scene_data_v2",
+                    "value": "{\"scene_num\":1,\"scene_units\":[{\"bright\":200,\"h\":0,\"s\":0,\"temperature\":0,\"unit_change_mode\":\"static\",\"unit_gradient_duration\":13,\"unit_switch_duration\":14,\"v\":0}]}"
+                },
+                {
+                    "code": "countdown_1",
+                    "value": 0
+                },
+                {
+                    "code": "music_data",
+                    "value": ""
+                },
+                {
+                    "code": "control_data",
+                    "value": ""
+                },
+                {
+                    "code": "rhythm_mode",
+                    "value": "AAAAAAA="
+                },
+                {
+                    "code": "sleep_mode",
+                    "value": "AAA="
+                },
+                {
+                    "code": "wakeup_mode",
+                    "value": "AAA="
+                }
+            ],
+            "sub": false,
+            "time_zone": "+01:00",
+            "uid": "eu16260908376886rDRp",
+            "update_time": 1635697819,
+            "uuid": "4425454da61124c9"
+        },
+        {
+            "active_time": 1632244981,
+            "biz_type": 18,
+            "category": "dj",
+            "create_time": 1632244981,
+            "icon": "smart/icon/ay1531274314270b4rAP/6b7f8edf3d4d29deb02c17df60f1d6ca.png",
+            "id": "bfd1d41bdad052a6bcdinc",
+            "ip": "2.99.81.9",
+            "lat": "55.8956",
+            "local_key": "076a1e3487481b84",
+            "lon": "-4.3302",
+            "model": "",
+            "name": "YX-ZNLD9-15mA",
+            "online": true,
+            "owner_id": "33974394",
+            "product_id": "zegnjggpukb4ktuf",
+            "product_name": "",
+            "status": [
+                {
+                    "code": "switch_led",
+                    "value": true
+                },
+                {
+                    "code": "work_mode",
+                    "value": "white"
+                },
+                {
+                    "code": "bright_value_v2",
+                    "value": 197
+                },
+                {
+                    "code": "temp_value_v2",
+                    "value": 298
+                },
+                {
+                    "code": "colour_data_v2",
+                    "value": "{\"h\":0,\"s\":1000,\"v\":1000}"
+                },
+                {
+                    "code": "scene_data_v2",
+                    "value": "{\"scene_num\":1,\"scene_units\":[{\"bright\":200,\"h\":0,\"s\":0,\"temperature\":0,\"unit_change_mode\":\"static\",\"unit_gradient_duration\":13,\"unit_switch_duration\":14,\"v\":0}]}"
+                },
+                {
+                    "code": "countdown_1",
+                    "value": 0
+                },
+                {
+                    "code": "music_data",
+                    "value": ""
+                },
+                {
+                    "code": "control_data",
+                    "value": ""
+                },
+                {
+                    "code": "rhythm_mode",
+                    "value": "AAAAAAA="
+                },
+                {
+                    "code": "sleep_mode",
+                    "value": "AAA="
+                },
+                {
+                    "code": "wakeup_mode",
+                    "value": "AAA="
+                }
+            ],
+            "sub": false,
+            "time_zone": "+01:00",
+            "uid": "eu16260908376886rDRp",
+            "update_time": 1635649358,
+            "uuid": "d5b7f5a4ae59f788"
+        },
+        {
+            "active_time": 1632245058,
+            "biz_type": 18,
+            "category": "dj",
+            "create_time": 1632245058,
+            "icon": "smart/icon/ay1531274314270b4rAP/6b7f8edf3d4d29deb02c17df60f1d6ca.png",
+            "id": "bf52631e5447beb500iq4b",
+            "ip": "2.99.81.9",
+            "lat": "55.8956",
+            "local_key": "063fc1f101cfa5de",
+            "lon": "-4.3302",
+            "model": "",
+            "name": "YX-ZNLD9-15mA 3",
+            "online": true,
+            "owner_id": "33974394",
+            "product_id": "zegnjggpukb4ktuf",
+            "product_name": "",
+            "status": [
+                {
+                    "code": "switch_led",
+                    "value": true
+                },
+                {
+                    "code": "work_mode",
+                    "value": "white"
+                },
+                {
+                    "code": "bright_value_v2",
+                    "value": 197
+                },
+                {
+                    "code": "temp_value_v2",
+                    "value": 298
+                },
+                {
+                    "code": "colour_data_v2",
+                    "value": "{\"h\":0,\"s\":1000,\"v\":1000}"
+                },
+                {
+                    "code": "scene_data_v2",
+                    "value": "{\"scene_num\":8,\"scene_units\":[{\"bright\":0,\"h\":0,\"s\":1000,\"temperature\":0,\"unit_change_mode\":\"gradient\",\"unit_gradient_duration\":70,\"unit_switch_duration\":70,\"v\":1000},{\"bright\":0,\"h\":120,\"s\":1000,\"temperature\":0,\"unit_change_mode\":\"gradient\",\"unit_gradient_duration\":70,\"unit_switch_duration\":70,\"v\":1000},{\"bright\":0,\"h\":240,\"s\":1000,\"temperature\":0,\"unit_change_mode\":\"gradient\",\"unit_gradient_duration\":70,\"unit_switch_duration\":70,\"v\":1000},{\"bright\":0,\"h\":61,\"s\":1000,\"temperature\":0,\"unit_change_mode\":\"gradient\",\"unit_gradient_duration\":70,\"unit_switch_duration\":70,\"v\":1000},{\"bright\":0,\"h\":174,\"s\":1000,\"temperature\":0,\"unit_change_mode\":\"gradient\",\"unit_gradient_duration\":70,\"unit_switch_duration\":70,\"v\":1000},{\"bright\":0,\"h\":275,\"s\":1000,\"temperature\":0,\"unit_change_mode\":\"gradient\",\"unit_gradient_duration\":70,\"unit_switch_duration\":70,\"v\":1000}]}"
+                },
+                {
+                    "code": "countdown_1",
+                    "value": 0
+                },
+                {
+                    "code": "music_data",
+                    "value": ""
+                },
+                {
+                    "code": "control_data",
+                    "value": ""
+                },
+                {
+                    "code": "rhythm_mode",
+                    "value": "AAAAAAA="
+                },
+                {
+                    "code": "sleep_mode",
+                    "value": "AAA="
+                },
+                {
+                    "code": "wakeup_mode",
+                    "value": "AAA="
+                }
+            ],
+            "sub": false,
+            "time_zone": "+01:00",
+            "uid": "eu16260908376886rDRp",
+            "update_time": 1635552559,
+            "uuid": "81998dce6011629a"
+        }
+    ],
+    "success": true,
+    "t": 1635706809481
+}
