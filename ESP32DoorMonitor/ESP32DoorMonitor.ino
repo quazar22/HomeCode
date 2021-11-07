@@ -59,7 +59,7 @@ void loop()
   currentNum = (currentNum + 1) % 1000;
   if(currentNum == 0)
     server->handleClient();
-
+    
   toggleLight();
   
   pin1Val = digitalRead(sensorPin1);
@@ -101,6 +101,17 @@ void loop()
   
 }
 
+void sendTestCommand()
+{
+  HTTPClient http;
+
+  http.begin(serverName);
+
+  char json[128];
+  char length_number[4];
+  sprintf(json, "{\"command\":{\"test1\":\"test2\"}"); 
+}
+
 void sendLightCommand(int first, int second)
 {
   int direction_vector[] = {first, second};
@@ -134,6 +145,8 @@ void sendLightCommand(int first, int second)
   
   int httpCode = http.POST(data_out);
   timeSinceLastCommand = millis();
+
+  http.end();
 
   Serial.printf("httpCode = %d, person_count = %d", httpCode, person_count);
 }
